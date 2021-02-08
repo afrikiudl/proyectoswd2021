@@ -1,0 +1,74 @@
+[{
+        "id": 1,
+        "autor": "Albert Bosch i Xavier Claverol",
+        "titulo": "Great_Inventions",
+        "srcimg": "https://raw.githubusercontent.com/AlbertBosch22/great_inventions/main/Inici%201.png",
+        "alt": "Pàgina_inici_de_Great_Inventions",
+        "texto": "La millor pàgina web per meravellar-se amb les creacions tecnològiques més sorprenents que fan inventors o empreses.",
+        "url": "https://albertbosch22.github.io/great_inventions/"
+    },
+    {
+        "id": 7,
+        "autor": "Marc Jiménez - Alba Beltran - Biel Lavergne",
+        "titulo": "Cop or Drop",
+        "srcimg": "https://www.sneakerhdwallpapers.com/wallpapers/2020/nike-af1-skeleton-orange-wallpaper-preview.jpg",
+        "alt": "La página definitiva para todo el que ame al mundo de las zapatillas y quiera estar informado en tiempo real",
+        "texto": "Las ultimas actulizaciones del mundo de las sneakers al instante",
+        "url": "https://marcjh00.github.io/sneakersweb/#/"
+    },
+    {
+        "id": 9,
+        "autor": "Pol y Angela",
+        "titulo": "Los Animales de la Sabana",
+        "srcimg": "https://www.significadode.top/wp-content/uploads/2019/06/Soñar-con-tigres.jpg",
+        "alt": "La imagen anterior aparece uno de los animales principales, el Tigre",
+        "texto": "Página con información relevante sobre los Animales de la Sabana",
+        "url": "https://aithor.github.io/final_trabajo/"
+    },
+    {
+        "id": 10,
+        "autor": "Kevin López y Álvaro Santiago",
+        "titulo": "GAMEDIA",
+        "srcimg": "https://raw.githubusercontent.com/Kevsword/practica2/main/src/assets/Gamemedia.png",
+        "alt": "Título GAMEDIA",
+        "texto": "En esta página web encontrarás noticias y artículos sobre el mundo de los videojuegos.",
+        "url": "https://kevsword.github.io/gamedia/"
+    },
+    {
+        "id": 12,
+        "autor": "Víctor Ortiz I Ionander Terrero",
+        "titulo": "Daily Fit ",
+        "srcimg": "https://filmdaily.co/wp-content/uploads/2020/04/aerobic-classes-1-Nike-Training-Club-.jpg",
+        "alt": "FotoperfilDailyFit",
+        "texto": "Web sobre el mundo fitness con un enfoque casero",
+        "url": "https://victorortizzz.github.io/practica2/"
+    },
+    {
+        "id": 14,
+        "autor": "Violeta Prim y Ieva Rituma",
+        "titulo": "Tesito Teashop",
+        "srcimg": "https://notiboom.com/wp-content/uploads/2020/08/t%C3%A9-de-colores.jpg",
+        "alt": "Tazas llenas de té de colores distintos y sus respectivas flores secas",
+        "texto": "Esta es la web de Tesito Teashop, una tienda física y online de venta de tés e infusiones.",
+        "url": "https://violetaprim.github.io/practicawd/"
+    },
+    {
+        "id": 15,
+        "autor": "Aleix Ruiz Piñol y Arnau Viñuales Latorre",
+        "titulo": "Game Chicken",
+        "srcimg": "https://raw.githubusercontent.com/Aleixdin/Practica2_AleixRuiz_ArnauVi-uales/main/src/assets/logo.png",
+        "alt": "Logotipo de Game Chicken, en el que podemos ver una gallina sentada junto a las palabras game chicken",
+        "texto": "Página web de una empresa de videojuegos indie que intenta darse a conocer y publicitar su juego, Dungeons & Dragon: The VR Experience.",
+        "url": "https://aleixdin.github.io/gamechicken/"
+    },
+    {
+        "id": 16,
+        "autor": "Ferran Torruella Rodes y Carmen Cortes Vidal",
+        "titulo": "Gardening",
+        "srcimg": "https://ftorruella.github.io/gardening/CalendarioJS.PNG",
+        "alt": "Imagen del apartado 'Calendario' con la vista de Mobil con informacion sobre la siembra en ambos hemisferios",
+        "texto": "Este proyecto va dirigido a aquellos que esten interesados en tener un huerto casero y quieran aprender a gestionar y mantener uno",
+        "url": "https://ftorruella.github.io/gardening/"
+    }
+
+]
